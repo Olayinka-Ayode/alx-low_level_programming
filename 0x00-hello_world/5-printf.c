@@ -5,7 +5,7 @@
  *
  * Description: C program that prints a line using printf
  *
- * Returns: 0
+ * Return: 0
 */
 
 int main(void)
