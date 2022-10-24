@@ -24,4 +24,4 @@ void rev_string(char *s)
 		s[l - 1 - i] = ch;
 	}
 
-
+}
